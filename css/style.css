@@ -18,13 +18,14 @@
     top: -auto;
 }
 .pix {
-    height: 25opx;
-    width: 250px;
-    border-radius: 30%;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
     margin: auto;
-    border: sold;
+    border: 5px sold;
     border-color: aquamarine; 
     border-width: 3px;
+    padding: 10px;
 }
 .potlio {
     font-size: 35px;
